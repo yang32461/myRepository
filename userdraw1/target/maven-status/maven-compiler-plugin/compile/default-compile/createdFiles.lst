@@ -1,0 +1,11 @@
+com\qst\userdrawmr\UserDrawMapReduce2$MyMap2.class
+com\qst\util\TextArrayWritable.class
+com\qst\userdrawmr\UserDrawMapReduce.class
+com\qst\util\ReadHdfsFile.class
+com\qst\userdraw1\UserDraw.class
+com\qst\userdrawmr\UserDrawMapReduce$MyMap.class
+com\qst\userdrawmr\UserDrawMapReduce2$MyReduce2.class
+com\qst\userdrawmr\UserDrawMapReduce$MyReduce.class
+com\qst\userdrawmr\UserDrawMapReduce2.class
+com\qst\util\LoadHdfsTable.class
+com\qst\util\Config.class
